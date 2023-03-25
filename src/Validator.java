@@ -2,7 +2,6 @@ import java.util.Objects;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Validator {
-
     private Validator() {
 
     }
